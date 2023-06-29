@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp Area="0, 0, 0, 0" BrowserType="Firefox" ContentHash="T0qsGze6FUeWwLxo_Ib_nA" Selector="&lt;html app='firefox.exe' title='(1) Home / Twitter'/&gt;" Url="https://twitter.com/home" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">03iCXHM3uYUGWRnMMnTR-aw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="8d588c74bfa4d212bb698f259ae8a3e6.png" xmlns="">0e3VTwUHUy0mtLpEGDL4KMQ</imageRef>
+</TargetApp>

@@ -1,0 +1,13 @@
+﻿{
+  "Id": "cfoSBQDZkkabqUnsm6xq1Q",
+  "Reference": "l9_B2RJqc0iexQegWznboQ/cfoSBQDZkkabqUnsm6xq1Q",
+  "ParentRef": "l9_B2RJqc0iexQegWznboQ/gpxKinOY5UyKoNVKdA71Uw",
+  "Name": "Firefox: (1) Home / Twitter",
+  "Type": "Screen",
+  "Created": "2023-06-26T07:50:35.0523148Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-06-26T07:50:35.0523148Z"
+}

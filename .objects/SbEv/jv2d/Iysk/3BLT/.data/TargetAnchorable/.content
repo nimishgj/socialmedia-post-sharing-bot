@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="BKNnAyryBEifryhn5szXBA" DesignTimeRectangle="690, 543, 110, 33" ElementType="Button" FriendlyName="'&amp;Open'" FullSelectorArgument="&lt;wnd ctrlid='1' title='&amp;amp;Open' /&gt;" FuzzySelectorArgument="&lt;wnd ctrlid='1' title='&amp;amp;Open' check:text='&amp;amp;Open' /&gt;" Guid="690c31b3-90e6-450e-a84f-b26df2aad173" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='#32770' title='Open' /&gt;" SearchSteps="Selector, FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0T9XXla6iZkWeJ8vS5Y7Liw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="dedd8b86acf20b872d6da1407a3e722d.png" xmlns="">09tKb0CNT50WvywRwLAiX0Q</imageRef>
+</TargetAnchorable>

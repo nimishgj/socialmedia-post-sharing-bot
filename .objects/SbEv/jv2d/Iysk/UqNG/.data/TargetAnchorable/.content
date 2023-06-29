@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://www.linkedin.com/feed/" ContentHash="8yo5PY1n7kiVaPBkqSKXFg" DesignTimeRectangle="534, 322, 870, 120" FriendlyName="'DIV'" FullSelectorArgument="&lt;webctrl aria-role='textbox' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl aria-role='textbox' tag='DIV' type='' aaname='' /&gt;" Guid="f2fc1fed-ea3c-44be-a8ce-4f4fba002e6e" ScopeSelectorArgument="&lt;html app='chrome.exe' title='(9) Feed | LinkedIn' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0OeN57ZUc50qiTXr0h0yU7w</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="62ae0baf41d512ca3fb530c15410527b.png" xmlns="">0kg7byuZOPUqnR6Ll85FaXA</imageRef>
+</TargetAnchorable>

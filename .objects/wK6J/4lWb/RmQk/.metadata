@@ -1,0 +1,13 @@
+﻿{
+  "Id": "RmQkcLVk7EiHKqGCtOdO8Q",
+  "Reference": "l9_B2RJqc0iexQegWznboQ/RmQkcLVk7EiHKqGCtOdO8Q",
+  "ParentRef": "l9_B2RJqc0iexQegWznboQ/4lWbTeQCwkyUN_5TcJB3YA",
+  "Name": "Instagram - Google Chrome",
+  "Type": "Screen",
+  "Created": "2023-06-29T14:24:16.6762956Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-06-29T14:24:16.6762956Z"
+}

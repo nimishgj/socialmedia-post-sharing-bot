@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp Area="0, 0, 0, 0" BrowserType="Chrome" ContentHash="4ym0vKj4IUCdnAqlBp9Y3w" Selector="&lt;html app='chrome.exe' title='Instagram'/&gt;" Url="https://www.instagram.com/" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">0D_-m_iNFiUK8h54NUvfw1A</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="0d933d5741ef10938e06966aaf359c88.png" xmlns="">0AWBD5VJKiUijQcnLKFTs-A</imageRef>
+</TargetApp>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://www.instagram.com/" ContentHash="yn7VEPlm4Ueo_7lObfELqQ" DesignTimeRectangle="24, 682, 275, 70" FriendlyName="'Create'" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;span&amp;gt;div&amp;gt;a&amp;gt;div' idx='2' parentid='mount_0_0_y9' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl type='' aaname='' parentid='mount_0_0_y9' tag='DIV' check:text='Create' /&gt;" Guid="3b149875-4086-4c10-b8bb-102316e11d60" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Instagram' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">01jbCNQITuUiVk3fW__X2Ag</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="b6139513c83233f7acfbc756578dc8bc.png" xmlns="">0sOJXztMej0y8fZg7W5wpLA</imageRef>
+</TargetAnchorable>

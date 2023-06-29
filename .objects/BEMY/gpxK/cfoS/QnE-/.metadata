@@ -1,0 +1,14 @@
+﻿{
+  "Id": "QnE-o7UwJEO_T-HudBYovg",
+  "Reference": "l9_B2RJqc0iexQegWznboQ/QnE-o7UwJEO_T-HudBYovg",
+  "ParentRef": "l9_B2RJqc0iexQegWznboQ/cfoSBQDZkkabqUnsm6xq1Q",
+  "Name": "Tweet",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2023-06-26T07:52:11.3764689Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-06-26T07:52:11.3764689Z"
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Id": "Y6vT4eBIP0OZNcghpZUoXQ",
+  "Reference": "l9_B2RJqc0iexQegWznboQ/Y6vT4eBIP0OZNcghpZUoXQ",
+  "ParentRef": "l9_B2RJqc0iexQegWznboQ/plHsZKiHW06Fbdv1TNUM3Q",
+  "Name": "Chrome: (14) Feed | LinkedIn",
+  "Type": "Screen",
+  "Created": "2023-06-29T15:30:53.2816395Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-06-29T15:30:53.2816395Z"
+}

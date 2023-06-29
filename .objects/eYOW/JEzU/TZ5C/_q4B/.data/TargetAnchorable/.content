@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://www.facebook.com/" ContentHash="IgUyMvNltkSuTT5Iin7DAw" DesignTimeRectangle="685, 343, 608, 28" ElementType="Text" FriendlyName="'What's on'" FullSelectorArgument="&lt;webctrl aaname='What&amp;apos;s on your mind, Bob?' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='What&amp;apos;s on your mind, Bob?' tag='SPAN' type='' check:text='What&amp;apos;s on your mind, Bob?' /&gt;" Guid="b228ec13-674a-4bea-8183-5db014749b95" ScopeSelectorArgument="&lt;html app='firefox.exe' title='(2) Facebook' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="670, 332, 638, 50" ElementType="Button" FriendlyName="'What's on'" FullSelectorArgument="&lt;webctrl aria-role='button' css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl aria-role='button' type='' tag='DIV' aaname='' check:text='What&amp;apos;s on your mind, Bob?' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1aKC4udoklU2cwrj_2fBBkw</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0mBs08D2ovEqVRSqgtygDZw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="4fbf65ed7d6dee1ddb823ad5a8229120.png" xmlns="">095GKzUmDw0yQuVMVmIX3wQ</imageRef>
+</TargetAnchorable>

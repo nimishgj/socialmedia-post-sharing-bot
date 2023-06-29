@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://twitter.com/home" ContentHash="GsBoVnmQgUS6kNzWxTnuwA" DesignTimeRectangle="589, 434, 47, 47" FriendlyName="'DIV'" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;main&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div' idx='4' parentid='react-root' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl type='' aaname='' parentid='react-root' tag='DIV' /&gt;" Guid="38400ce7-6178-4ae8-aecb-d1bf40775e7f" ScopeSelectorArgument="&lt;html app='firefox.exe' title='(1) Home / Twitter' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0UfBifRnvfki8BnLO3CW2NQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="59dbb7972736449782c149b4d0bab79d.png" xmlns="">0lPu5MwKJTEimkRcAmxYXzg</imageRef>
+</TargetAnchorable>

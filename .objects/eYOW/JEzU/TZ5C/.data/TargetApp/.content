@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp Area="0, 0, 0, 0" BrowserType="Firefox" ContentHash="yGQ53ovEyEK9X6MS4nztJQ" Selector="&lt;html app='firefox.exe' title='(2) Facebook'/&gt;" Url="https://www.facebook.com/" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">0GHM-IIhU8Uejt4kTh35PjA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="04b35ce59a1681c17a446c5330e27a69.png" xmlns="">0z524ii8QGUGlBkxSmn9qhg</imageRef>
+</TargetApp>

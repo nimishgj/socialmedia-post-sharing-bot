@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://www.instagram.com/" ContentHash="Sa0PxepYTkmPp_a6mT89hQ" DesignTimeRectangle="1077, 653, 343, 48" ElementType="InputBox" FriendlyName="'INPUT'" FullSelectorArgument="&lt;webctrl tag='INPUT' type='text' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='text' aaname='' /&gt;" Guid="3a4da5d4-8366-41a1-a124-1a909542d165" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Create new post • Instagram' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="1400, 611, 8, 20" ElementType="Text" FriendlyName="'0'" FullSelectorArgument="&lt;webctrl aaname='0' parentid='mount_0_0_y9' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='0' parentid='mount_0_0_y9' tag='SPAN' type='' check:text='0' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1BcVtUDuXSkaInl7xQrnIYA</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0PXN9Q32Qk02UueR8InEWjw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="d2576ffdc9260051a1a97602b41174bb.png" xmlns="">0EG11DJUyQ0qQ4NlPazKXwA</imageRef>
+</TargetAnchorable>

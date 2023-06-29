@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="iiDG49NXGEuUu7G1BEefEA" DesignTimeRectangle="696, 543, 110, 33" ElementType="Button" FriendlyName="'unchecked'" FullSelectorArgument="&lt;wnd ctrlid='1' title='&amp;amp;Open' /&gt;" FuzzySelectorArgument="&lt;wnd ctrlid='1' title='&amp;amp;Open' check:text='unchecked' /&gt;" Guid="4099598d-c18b-41fd-8087-1803fb27469f" ScopeSelectorArgument="&lt;wnd app='firefox.exe' cls='#32770' title='File Upload' /&gt;" SearchSteps="Selector, FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0yi_pLFmEXEKvzBNM1BZbBw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="3c2aba86fa3dd42f56b1c591b99cbbe5.png" xmlns="">0LWXw8JzTsEOvWZvHZGoKLA</imageRef>
+</TargetAnchorable>

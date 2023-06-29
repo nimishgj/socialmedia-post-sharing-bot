@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp Area="0, 0, 0, 0" ContentHash="GWaDv3VpUkGjNJT8qigBIw" FilePath="C:\Program Files\Google\Chrome\Application\chrome.exe" Selector="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Instagram - Google Chrome'/&gt;" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">03GCIQdRgnUKXflnAaQazKA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="8b5e1b7e7ceb7b54485d7770d94907f0.png" xmlns="">0doTMUCwsUE-hapwPRRyUeQ</imageRef>
+</TargetApp>

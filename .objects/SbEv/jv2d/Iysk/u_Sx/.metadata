@@ -1,0 +1,14 @@
+﻿{
+  "Id": "u_SxBFHszEWUgCRU8EGFrQ",
+  "Reference": "l9_B2RJqc0iexQegWznboQ/u_SxBFHszEWUgCRU8EGFrQ",
+  "ParentRef": "l9_B2RJqc0iexQegWznboQ/Iysk6FtZgk2qn8F9hmxEWg",
+  "Name": "Post",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2023-06-26T07:28:10.5842948Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-06-26T07:28:10.5842948Z"
+}

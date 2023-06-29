@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://twitter.com/home" ContentHash="ThC4aI72GE2Nz9UG88AxRQ" DesignTimeRectangle="1141, 747, 97, 45" ElementType="Button" FriendlyName="'Tweet'" FullSelectorArgument="&lt;webctrl aria-role='button' css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;main&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div' idx='4' tabindex='0' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl aria-role='button' type='' aaname='' tabindex='0' tag='DIV' check:text='Tweet' /&gt;" Guid="d7598957-1277-41d8-878e-10f93d31140a" ScopeSelectorArgument="&lt;html app='firefox.exe' title='(1) Home / Twitter' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="1162, 758, 55, 23" ElementType="Text" FriendlyName="'Tweet'" FullSelectorArgument="&lt;webctrl aaname='Tweet' css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;main&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;span&amp;gt;span' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Tweet' type='' tag='SPAN' check:text='Tweet' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">5N2DhPIkSr0StQpMqm25KFw</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">04LlvcX72GUeuapmR55OIuA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="2ee7997cd61ff31a08e670f0f51dba55.png" xmlns="">0JfnGN4qURUq9gob7oMJHOw</imageRef>
+</TargetAnchorable>

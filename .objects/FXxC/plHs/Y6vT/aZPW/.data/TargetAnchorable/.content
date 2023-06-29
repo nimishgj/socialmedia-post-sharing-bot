@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://www.linkedin.com/feed/" ContentHash="D5eWnXvqsES6xqGSAmX7GA" DesignTimeRectangle="1195, 774, 89, 40" ElementType="Button" FriendlyName="'Done'" FullSelectorArgument="&lt;webctrl id='ember440' tag='BUTTON' type='button' /&gt;" FuzzySelectorArgument="&lt;webctrl id='ember440' tag='BUTTON' type='button' aaname='                 Done        ' check:text='Done' /&gt;" Guid="bdd6a60f-9fc2-4b33-b8e1-25cf7d787899" ScopeSelectorArgument="&lt;html app='chrome.exe' title='(14) Feed | LinkedIn' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="1215, 781, 49, 25" ElementType="Text" FriendlyName="'Done'" FullSelectorArgument="&lt;webctrl parentid='ember440' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='ember440' tag='SPAN' type='' aaname='                Done        ' check:text='Done' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">10ks5TKC2aF06oPwydvOTM9g</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">09Kc3ScFBeEWnawtjY6-a1A</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="9a9987e1224db3173a536e56d6ab5e7a.png" xmlns="">0ocMyCML_i0qeeQpa2nVdcg</imageRef>
+</TargetAnchorable>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://www.instagram.com/" ContentHash="tKyDuD3rfUCjwHvG5dhj_g" DesignTimeRectangle="1427, 262, 44, 23" ElementType="Text" FriendlyName="'Share'" FullSelectorArgument="&lt;webctrl aaname='Share' aria-role='button' parentid='mount_0_0_y9' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Share' aria-role='button' parentid='mount_0_0_y9' tag='DIV' type='' check:text='Share' /&gt;" Guid="445a2c74-8f9c-4d86-91e9-acb994cfa3de" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Create new post • Instagram' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0b_bsvDx7K0aBhSQrT3WrVw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="90d1d70fe9ac430f71e9db8301ac59b5.png" xmlns="">0SluNnmr3JkGJWxCgISDKlg</imageRef>
+</TargetAnchorable>

@@ -1,0 +1,12 @@
+﻿{
+  "Id": "eYOWafFBU0CpF77yx1Neow",
+  "Reference": "l9_B2RJqc0iexQegWznboQ/eYOWafFBU0CpF77yx1Neow",
+  "Name": "Firefox: (2) Facebook",
+  "Type": "App",
+  "Created": "2023-06-29T14:49:24.9962012Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-06-29T14:49:24.9962012Z"
+}

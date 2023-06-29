@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://www.linkedin.com/feed/" ContentHash="cMTVdz0y4EeL_wPI2lH3Ig" DesignTimeRectangle="529, 726, 70, 70" FriendlyName="'SPAN'" FullSelectorArgument="&lt;webctrl parentid='ember358' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='ember358' tag='SPAN' type='' aaname='             ' /&gt;" Guid="3948b3cf-d003-42f5-a620-c2372357fafe" ScopeSelectorArgument="&lt;html app='chrome.exe' title='(14) Feed | LinkedIn' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0jDBuaRVgY02rYd7A8ZWSOQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="8c2cbd2cb7f789dc70a9be0a7f56952a.png" xmlns="">0cKBv4jEZ5k-7XIVmImX2Pg</imageRef>
+</TargetAnchorable>
